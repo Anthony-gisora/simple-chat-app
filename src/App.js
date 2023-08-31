@@ -1,9 +1,8 @@
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Yaa weeh</h1>
+    <div className="flex flex-col items-center justify-center h-[100vh] w-[100vw]">
+      <h1 className='text-red-600 text-[24px]' >Yaa weeh</h1>
     </div>
   );
 }
